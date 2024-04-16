@@ -1,4 +1,4 @@
 welcome to Myproject
 
-Author:thomas
+Author:thomas claudius
 Twitter:thomas@gmail.com
