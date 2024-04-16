@@ -1,4 +1,4 @@
-welcome to Myproject
+welcome to 'git beginners' Myproject
 
 
 Author:thomas claudius hubert
