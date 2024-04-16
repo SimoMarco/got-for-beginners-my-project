@@ -1,3 +1,4 @@
 welcome to Myproject
 
-Author:thomas
+Author:thomas hubert
+Twitter:thomas@gmail.com
